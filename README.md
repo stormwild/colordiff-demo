@@ -49,6 +49,16 @@ docker image ls | grep stormwild/colordiff-demo
 docker image rm stormwild/colordiff-demo
 ```
 
+## Optimize Build
+
 [How to Reduce Docker Image Size: 6 Optimization Methods](https://stackoverflow.com/questions/64804749/why-is-docker-build-not-showing-any-output-from-commands)
+
+## Docker Hub
+
+```
+docker push stormwild/colordiff-demo:latest
+```
+
+[stormwild/colordiff-demo](https://hub.docker.com/repository/docker/stormwild/colordiff-demo)
 
 
